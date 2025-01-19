@@ -1,0 +1,18 @@
+# ignore ALL files in the following folders
+queue/
+archive/
+outputs/ 
+
+# Python
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+venv/
+.venv/
+*.log
+
+#Temp / System Files
+Thumbs.db
+.idea/
+.vscode/
